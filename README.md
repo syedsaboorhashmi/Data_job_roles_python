@@ -115,7 +115,7 @@ plt.show()
 
 ### US
 
-![Count of skills needed in US data jobs](images\Count_of_skills_needed_in_US_data_jobs.png)
+![Count of skills needed in US data jobs](images/Count_of_skills_needed_in_US_data_jobs.png)
 
 *Bar graph showing the top 5 skills required for each of the top 3 data roles in U.S.*
 
