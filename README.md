@@ -136,7 +136,7 @@ plt.show()
 
 ### India
 
-![Count of skills needed in Indian data jobs](images\Count_of_skills_needed_in_Indian_data_jobs.png)
+![Count of skills needed in Indian data jobs](images/Count_of_skills_needed_in_Indian_data_jobs.png)
 
 *Bar graph showing the top 5 skills required for each of the top 3 data roles in India.*
 
@@ -218,7 +218,7 @@ plt.show()
 
 ### US
 
-![Trending Top Skills for Data Analysts in US](images\Trending_Top_Skills_for_Data_Analysts_in_US.png)  
+![Trending Top Skills for Data Analysts in US](images/Trending_Top_Skills_for_Data_Analysts_in_US.png)  
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -231,7 +231,7 @@ plt.show()
 
 ### India
 
-![Trending Top Skills for Data Analysts in India](images\Trending_Top_Skills_for_Data_Analysts_in_India.png)  
+![Trending Top Skills for Data Analysts in India](images/Trending_Top_Skills_for_Data_Analysts_in_India.png)  
 *Bar graph visualizing the trending top skills for data analysts in India in 2023.*
 
 ### Insights:
